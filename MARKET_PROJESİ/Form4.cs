@@ -83,7 +83,7 @@ namespace MARKET_PROJESİ
             }
              if (personel == "M.YARDIMCISI X")
             {
-                LblAdSoyad.Text = "FUNDA AKDEMİR";
+                LblAdSoyad.Text = "FUNDA  AKDEMİR";
                 LblTelefon.Text = "05494245665";
                 LblAdres.Text = "BAĞLAR MAH. 418 SOK. NO 21";
                 HIzin = 1;
